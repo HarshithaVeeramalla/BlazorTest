@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\v-harshithav\\source\\repos\\July\\BlazorApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39032491-EDE1-4174-A341-83E68C123FC1}|BlazorApp2\\Server\\BlazorApp2.Server.csproj|c:\\users\\v-harshithav\\source\\repos\\july\\blazorapp2\\blazorapp2\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39032491-EDE1-4174-A341-83E68C123FC1}|BlazorApp2\\Server\\BlazorApp2.Server.csproj|solutionrelative:blazorapp2\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1390465396:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1225193912:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1932401047:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1518612074:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\v-harshithav\\source\\repos\\July\\BlazorApp2\\BlazorApp2\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazorApp2\\Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\v-harshithav\\source\\repos\\July\\BlazorApp2\\BlazorApp2\\Server\\appsettings.json",
+              "RelativeToolTip": "BlazorApp2\\Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T11:37:26.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
